@@ -1,6 +1,6 @@
 /************************************************************
  * Project: Smart Socket using ESP8266 + Blynk IoT + Apple's Siri
- * Full Tutorial Video: https://your-youtube-link-here
+ * Full Tutorial Video: https://youtu.be/x8m7aeoN3rA
  * Made by: iOT India
  * Description: This project allows you to control a relay (smart socket)
 
