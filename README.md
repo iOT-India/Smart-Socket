@@ -8,7 +8,7 @@ The entire system is enclosed in a compact box with a standard 3-pin socket, mak
 
 ## 📺 Full Tutorial
 
-👉 [https://your-youtube-link-here](https://youtu.be/x8m7aeoN3rA)
+👉 https://youtu.be/x8m7aeoN3rA
 
 ---
 
