@@ -3,6 +3,9 @@
  * Full Tutorial Video: https://your-youtube-link-here
  * Made by: iOT India
  * Description: This project allows you to control a relay (smart socket)
+
+ * Siri Start Smart Socket Link : https://sgp1.blynk.cloud/external/api/update?token=YOUR-BLYNK-AUTH-TOKEN&v0=1  // Your Blynk Auth Token
+ * Siri Stop Smart Socket Link : https://sgp1.blynk.cloud/external/api/update?token=YOUR-BLYNK-AUTH-TOKEN&v0=0   // Your Blynk Auth Token
  ************************************************************/
 
 // ====== Blynk Credentials ======
